@@ -118,14 +118,12 @@ functions:
   
   
 # Auth0
-  ![Auth0]](images/Auth01.jpg)
 
+  ![Auth01](https://user-images.githubusercontent.com/120554885/221633829-8c2f86e3-d4c4-47e0-a6cf-9a4c9915467a.jpg)
 
-  
 # AWS Cloud Formation 
-![CloudFormation](images/AWS_CloudFormation.PNG)
 
-
+<img width="813" alt="AWS_CloudFormation" src="https://user-images.githubusercontent.com/120554885/221633959-28f81b41-3f20-4058-9eee-f2e474910bb6.PNG">
 
    
 
@@ -209,11 +207,12 @@ npm run start
 ```
 
 ### Working Todo
-![Working image](images/AddTodo-with-images.PNG)
 
+<img width="960" alt="AddTodo-with-images" src="https://user-images.githubusercontent.com/120554885/221634122-36dc29fb-7154-4ddc-8ade-fa2e672242a0.PNG">
 
 ### Blank Todo 
-![Failed](images/Failed_running_blankTodo.PNG)
+
+<img width="960" alt="Failed_running_blankTodo" src="https://user-images.githubusercontent.com/120554885/221634236-a3fefd33-5e1a-4f82-b5e6-917860340f4e.PNG">
 
 
 
