@@ -96,11 +96,11 @@ You also need to add any necessary resources to the `resources` section of the `
 
 # Endpoints
    
-  - GET - https://07ep79xqe4.execute-api.us-east-1.amazonaws.com/prod/todos
-  - POST - https://07ep79xqe4.execute-api.us-east-1.amazonaws.com/prod/todos
-  - PATCH - https://07ep79xqe4.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}
-  - DELETE - https://07ep79xqe4.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}
-  - POST - https://07ep79xqe4.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}/attachment
+ - GET - https://qw9a9dkf45.execute-api.us-east-1.amazonaws.com/prod/todos
+ - POST - https://qw9a9dkf45.execute-api.us-east-1.amazonaws.com/prod/todos
+ - PATCH - https://qw9a9dkf45.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}
+ - DELETE - https://qw9a9dkf45.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}
+ - POST - https://qw9a9dkf45.execute-api.us-east-1.amazonaws.com/prod/todos/{todoId}/attachment
 
 functions:
   
